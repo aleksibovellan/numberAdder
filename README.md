@@ -1,6 +1,3 @@
-# Tehtävät 10.-24.1.2022
+# Simple C# number adder
 
-Tee ohjelma, joka kysyy "Montako lukua", kysyy luvut ("Anna luku") ja laskee niistä keskiarvon (= lukujen summa/lukumäärä) ja tulostaa sen.
-Tee ohjelma, joka kysyy "Yhteen- vai vähennyslasku (+/-)", kysyy 2 lukua, laskee valitun toiminnan ja tulostaa lopputuloksen.
-
-Palauta projektikansiot zipattuna (Documents\Visual Studio Projects\ -kansiosta)
+Asks the user to input numbers and then the application adds them together. Written in C# for testing and learning purposes.
